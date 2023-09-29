@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: solution-01
-    repoURL: "https://github.com/edtroleis/argocd.git"
+    repoURL: "https://github.com/edtroleis/k8s-argocd-spot-node.git"
     targetRevision: master
   syncPolicy:
     automated: {}
